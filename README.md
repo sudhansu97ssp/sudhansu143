@@ -8,7 +8,10 @@ Hi 👋, I'm Sudhansu Sekhar Pati
 
 [![GitHub forks](https://badgen.net/github/forks/sudhansu143/Strapdown.js/)](https://GitHub.com/sudhansu143/StrapDown.js/network/) [![GitHub stars](https://badgen.net/github/stars/sudhansu143/Strapdown.js)](https://GitHub.com/sudhansu143/StrapDown.js/stargazers/)
 
-![Profile views](https://gpvc.arturio.dev/sudhansu143) [![GitHub contributors](https://img.shields.io/github/contributors/sudhansu143/badges.svg)](https://GitHub.com/sudhansu143/badges/graphs/contributors/)
+![Profile views](https://gpvc.arturio.dev/sudhansu143) 
+![](https://komarev.com/ghpvc/?username=sudhansu143)
+[![GitHub contributors](https://img.shields.io/github/contributors/sudhansu143/badges.svg)](https://GitHub.com/sudhansu143/badges/graphs/contributors/)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudhansu143)](https://github.com/sudhansu143/github-profile-trophy)
 
