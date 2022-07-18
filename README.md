@@ -2,13 +2,11 @@ Hi 👋, I'm Sudhansu Sekhar Pati
 <br />
 
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/sudhansu143/StrapDown.js/graphs/commit-activity) [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sudhansu143/ama)
 
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![GitHub forks](https://badgen.net/github/forks/sudhansu143/Strapdown.js/)](https://GitHub.com/sudhansu143/StrapDown.js/network/) [![GitHub stars](https://badgen.net/github/stars/sudhansu143/Strapdown.js)](https://GitHub.com/sudhansu143/StrapDown.js/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/sudhansu143/Strapdown.js/)](https://GitHub.com/sudhansu143/StrapDown.js/network/) [![GitHub stars](https://badgen.net/github/stars/sudhansu143/Strapdown.js)](https://GitHub.com/sudhansu143/StrapDown.js/stargazers/)
 
 ![Profile views](https://gpvc.arturio.dev/sudhansu143) [![GitHub contributors](https://img.shields.io/github/contributors/sudhansu143/badges.svg)](https://GitHub.com/sudhansu143/badges/graphs/contributors/)
 
