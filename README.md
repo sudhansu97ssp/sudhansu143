@@ -6,7 +6,8 @@ Hi 👋, I'm Sudhansu Sekhar Pati
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sudhansu143/ama)
 
-[![GitHub forks](https://badgen.net/github/forks/sudhansu143/Strapdown.js/)](https://GitHub.com/sudhansu143/StrapDown.js/network/) [![GitHub stars](https://badgen.net/github/stars/sudhansu143/Strapdown.js)](https://GitHub.com/sudhansu143/StrapDown.js/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/sudhansu143/Strapdown.js/)](https://GitHub.com/sudhansu143/StrapDown.js/network/) 
+[![GitHub stars](https://badgen.net/github/stars/sudhansu143/Strapdown.js)](https://GitHub.com/sudhansu143/StrapDown.js/stargazers/)
 
 ![Profile views](https://gpvc.arturio.dev/sudhansu143) 
 ![](https://komarev.com/ghpvc/?username=sudhansu143)
