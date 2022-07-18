@@ -3,7 +3,7 @@ Hi 👋, I'm Sudhansu Sekhar Pati
 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/sudhansu143/StrapDown.js/graphs/commit-activity) [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Windows](https://svgshare.com/i/ZhY.svg)]
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sudhansu143/ama)
 
 
