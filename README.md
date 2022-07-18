@@ -16,7 +16,7 @@ Hi 👋, I'm Sudhansu Sekhar Pati
 
 [![Sudhansu's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhansu143&theme=blue-green)](https://github.com/sudhansu143/github-readme-stats)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?usersudhansu143&theme=blue-green)](https://github.com/sudhansu143/github-readme-streak-stats)
+[![Sudhansu's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhansu143&theme=blue-green)](https://github.com/sudhansu143/github-readme-streak-stats)
 
 
 
